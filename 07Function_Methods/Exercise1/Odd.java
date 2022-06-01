@@ -1,5 +1,6 @@
 package Exercise1;
 
+
 import java.util.Scanner;
 
 public class Odd {
