@@ -18,20 +18,29 @@ public class Strings {
         String fullName = firstName +"@"+ lastName;
         System.out.println(fullName.length());
 
-        //charAt
+        //charAt()
         for (int i = 0; i < fullName.length(); i++) {
             System.out.print(fullName.charAt(i)+" ");
         }*/
 
         //compaire
-        String name1 = "sac";
-        String name2 = "sac";
+        // String name1 = "sac";
+        // String name2 = "sac";
 
-        if(name1.compareTo(name2)==0){
-            System.out.println("Strings are equal");
-        }else{
-            System.out.println("Strings are not equal");
-        }
+        // if(name1.compareTo(name2)==0){
+        //     System.out.println("Strings are equal");
+        // }else{
+        //     System.out.println("Strings are not equal");
+        // }
 
+        // if(new String("Sachin") == new String("Sachin")){
+        //     System.out.println("Strings are equal");
+        //     }else{
+        //     System.out.println("Strings are not equal");
+        // }
+        
+
+        //substring
+        
     }
 }

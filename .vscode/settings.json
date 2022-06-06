@@ -1,8 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "12String",
+        "12Strings",
         "11_2D_Array",
         "10Array",
-        "12Strings"
+        "13StringBuilder"
     ]
 }
