@@ -10,7 +10,7 @@ public class InsertionSort {
         for (int i = 1; i < arr.length; i++) {
             int current = arr[i];
             int j = i-1;
-           // System.out.println(arr[j]);
+            
             while (j>=0 && current < arr[j]) {
                 arr[j+1] = arr[j];
                 j--;
