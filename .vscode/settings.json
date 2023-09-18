@@ -1,10 +1,11 @@
 {
-    "java.project.sourcePaths": [
-        "16Sorting.java",
-        "13StringBuilder",
-        "12Strings",
-        "11_2D_Array",
-        "10Array",
-        "17Recursion"
-    ]
+  "java.project.sourcePaths": [
+    "17Recursion",
+    "16Sorting.java",
+    "13StringBuilder",
+    "12Strings",
+    "11_2D_Array",
+    "10Array",
+    "05Patterns"
+  ]
 }
