@@ -7,5 +7,6 @@
     "11_2D_Array",
     "10Array",
     "05Patterns"
-  ]
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }
